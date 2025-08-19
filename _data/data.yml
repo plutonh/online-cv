@@ -148,6 +148,9 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: Enhancing Timing Closure via Spatially Embedded Graph Transformer with Low Power/Area Overhead
+        authors: Joonyoung Seo, Jonghyeon Nam, Howoo jang, Yunseok Jung, and Seokhyeong Kang
+        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), October 26-30, 2025
       - title: Low-Power Encoding for PAM-3 DRAM Bus
         authors: J. Nam, J. Han, and H. Kim
         conference: 20th SMACD in Volos, Greece, July 2-5, 2024
