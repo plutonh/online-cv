@@ -45,20 +45,20 @@ education:
     info:
       - degree: MS. in Electrical Engineering
         university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-        time: Feb 2024 - present
+        time: Feb. 2024 - present
         details: |
           Advisor: Prof. Seokhyeong Kang
 
       - degree: BS. in Electronic Engineering
         university: Hanyang University, Seoul, South Korea
-        time: Feb 2018 - Feb 2024
+        time: Mar. 2018 - Feb. 2024
         details: |
           
 experiences:
     title: EXPERIENCES
     info:
       - role: Undergraduate Research Intern
-        time: August 2022 - July 2023
+        time: Aug. 2022 - Jul. 2023
         company: IoT Laboratory, in Hanyang University
         details: |
           - Researched energy efficiency of three PAM-3 encoding techniques using DRAM memory traces from the GEM5 computer architecture simulator running benchmarks.
