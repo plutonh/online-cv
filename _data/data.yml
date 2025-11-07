@@ -45,7 +45,13 @@ education:
     info:
       - degree: M.S. in Graduate School of Semiconductor Technology
         university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-        time: Feb. 2024 - present
+        time: Sep. 2024 - present
+        details: |
+          Advisor: Prof. Seokhyeong Kang
+          
+      - degree: M.S. in Department of Electrical Engineering
+        university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
+        time: Feb. 2024 - Aug. 2024
         details: |
           Advisor: Prof. Seokhyeong Kang
 
