@@ -148,12 +148,15 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: Efficient Down-sampling in Hybrid Neural Networks using Adversarial Autoencoders
+        authors: <strong>Jonghyeon Nam</strong>, Joonseok Kim, Eunji Kwon, and Seokhyeong Kang
+        conference: IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 20-22 April, 2026
       - title: Enhancing Timing Closure via Spatially Embedded Graph Transformer with Low Power/Area Overhead
         authors: Joonyoung Seo, <strong>Jonghyeon Nam</strong>, Howoo jang, Yunseok Jung, and Seokhyeong Kang
-        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), October 26-30, 2025
+        conference: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 26-30 October, 2025
       - title: Low-Power Encoding for PAM-3 DRAM Bus
         authors: <strong>Jonghyeon Nam</strong>, Jaeduk Han, and Hokeun Kim
-        conference: 20th International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design (SMACD), July 2-5, 2024
+        conference: 20th International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design (SMACD), 2-5 July, 2024
 
 skills:
     title: SKILLS & PROFICIENCY
