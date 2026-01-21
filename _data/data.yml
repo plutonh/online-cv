@@ -127,15 +127,15 @@ projects:
           # end: 2023
           # organization: Korea Student Aid Foundation
         
-        - title: ULJU SCHOLARSHIP
-          tagline: 2022
-          # end: 2023
-          # organization: ULJU-GUN Office
+        # - title: ULJU SCHOLARSHIP
+        #   tagline: 2022
+        #   # end: 2023
+        #   # organization: ULJU-GUN Office
 
-        - title: SEMICONDUCTOR MAJOR TRACK SCHOLARSHIP
-          tagline: 2022
-          # end: 2023
-          # organization: Hanyang University
+        # - title: SEMICONDUCTOR MAJOR TRACK SCHOLARSHIP
+        #   tagline: 2022
+        #   # end: 2023
+        #   # organization: Hanyang University
           
 # oss:
 #     title: OSS Contributions
