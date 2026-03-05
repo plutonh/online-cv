@@ -27,7 +27,7 @@ sidebar:
           level: Normal
 
         - idiom: Chinese
-          level: Normal
+          level: Intermediate
 
         - idiom: Japanese
           level: Normal
@@ -129,7 +129,7 @@ projects:
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
       assignments:
         - title: National Science and Engineering Undergraduate Scholarship
-          tagline: 2018 - 2023
+          tagline: 2018 ~ 2023
           # end: 2023
           # organization: Korea Student Aid Foundation
         
@@ -180,7 +180,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 40%
+        level: 50%
 
       - name: C/C++
         level: 40%
