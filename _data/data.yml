@@ -165,6 +165,9 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: Fusing the Attention Training Dataflow with Local Safe Softmax and Model-Independent Tiling
+        authors: JoonSeok Kim, <strong>Jonghyeon Nam</strong>, Daeheon Lee, DongHwan Yoon and Seokhyeong Kang
+        conference: IEEE/ACM Design, IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 5-7 August, 2026
       - title: Efficient Down-sampling in Hybrid Neural Networks using Adversarial Autoencoders
         authors: <strong>Jonghyeon Nam</strong>, Joonseok Kim, Eunji Kwon, and Seokhyeong Kang
         conference: IEEE/ACM Design, Automation and Test in Europe Conference and Exhibition (DATE), 20-22 April, 2026
